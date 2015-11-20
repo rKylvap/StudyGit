@@ -1,3 +1,4 @@
 I need some inner changes here and fix after merge :)
 This file  will be removed this time :)
 trolo
+New line added
