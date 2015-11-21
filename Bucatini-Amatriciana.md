@@ -1,2 +1,0 @@
-# Bucatini-Amatriciana
-# Recipe
