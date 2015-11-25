@@ -1,1 +1,2 @@
 Hello from first!
+Hello from first.txt Pasta version!
